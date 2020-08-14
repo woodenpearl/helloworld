@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+gnome-terminal --tab --title=loc166 --command "bash -c 'ssh 66'" --tab --title=porthos --command "bash -c 'ssh porthos'" --tab --title=br80 --command "bash -c 'ssh br80'" --tab --title=ex97 --command "bash -c 'ssh ex97'" --tab --title=exnvm02 --command "bash -c 'ssh nvm'"
