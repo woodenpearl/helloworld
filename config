@@ -1,0 +1,62 @@
+Host porthos
+  Port 22
+  Hostname 178.17.174.239
+  User porthos
+  IdentityFile ~/.ssh/id_rsa
+
+Host ex97
+  Port 1727
+  Hostname 212.109.197.1
+  User dart
+  IdentityFile ~/.ssh/id_rsa
+
+Host br80
+  Port 1727
+  Hostname 188.120.241.80
+  User dart
+  IdentityFile ~/.ssh/id_rsa
+
+Host 66
+  Hostname 192.168.1.166
+  User ianr
+  IdentityFile ~/.ssh/id_rsa
+
+Host nvmr
+  Hostname 62.109.0.2
+  User root
+#  Password 254IKh5g2xN8
+
+Host nvm
+  Port 1727
+  Hostname 62.109.0.2
+  User dart
+  IdentityFile ~/.ssh/id_rsa
+
+Host docker
+  Hostname 192.168.2.43
+  User ianr
+
+Host ar193
+  Port 1727
+  Hostname 176.123.5.193
+  User dart
+  IdentityFile ~/.ssh/id_rsa
+
+Host ar207
+  Port 1727
+  Hostname 176.123.5.207
+  User dart
+  IdentityFile ~/.ssh/id_rsa
+
+Host ar303
+  Port 1727
+  Hostname 176.123.5.203
+  User dart
+  IdentityFile ~/.ssh/id_rsa
+
+Host ar406
+  Port 1727
+  Hostname 176.123.5.206
+  User dart
+  IdentityFile ~/.ssh/id_rsa
+
